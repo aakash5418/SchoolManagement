@@ -1,0 +1,8 @@
+﻿CREATE PROCEDURE sp_Groups
+AS
+BEGIN
+SELECT
+	* 
+FROM
+	Groups
+END

@@ -1,0 +1,6 @@
+C:\DemoShoppingCart\School\Database1\bin\Debug\SchoolDatabase.dacpac
+C:\DemoShoppingCart\School\Database1\bin\Debug\Database1.dll
+C:\DemoShoppingCart\School\Database1\bin\Debug\Database1.pdb
+C:\DemoShoppingCart\School\Database1\obj\Debug\SchoolDatabase.sqlproj.AssemblyReference.cache
+C:\DemoShoppingCart\School\Database1\obj\Debug\Database1.dll
+C:\DemoShoppingCart\School\Database1\obj\Debug\Database1.pdb

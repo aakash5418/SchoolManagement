@@ -1,0 +1,8 @@
+﻿CREATE PROCEDURE sp_Exams
+AS
+BEGIN
+SELECT
+	*
+FROM
+	Exams
+END

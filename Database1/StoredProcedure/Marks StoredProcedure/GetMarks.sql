@@ -1,0 +1,8 @@
+﻿CREATE PROCEDURE sp_GetMarks
+AS
+BEGIN
+SELECT
+	*
+FROM
+	Marks
+END

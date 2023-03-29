@@ -1,0 +1,8 @@
+﻿CREATE PROCEDURE sp_Getclass
+AS
+BEGIN
+SELECT
+	* 
+FROM
+	Class
+END
