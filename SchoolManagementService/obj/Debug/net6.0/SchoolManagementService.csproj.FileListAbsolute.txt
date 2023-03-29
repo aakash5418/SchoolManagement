@@ -1,0 +1,15 @@
+C:\DemoShoppingCart\School\SchoolManagementService\bin\Debug\net6.0\SchoolManagementService.deps.json
+C:\DemoShoppingCart\School\SchoolManagementService\bin\Debug\net6.0\SchoolManagementService.dll
+C:\DemoShoppingCart\School\SchoolManagementService\bin\Debug\net6.0\SchoolManagementService.pdb
+C:\DemoShoppingCart\School\SchoolManagementService\bin\Debug\net6.0\SchoolManagementStore.dll
+C:\DemoShoppingCart\School\SchoolManagementService\bin\Debug\net6.0\SchoolManagementStore.pdb
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.csproj.AssemblyReference.cache
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.AssemblyInfoInputs.cache
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.AssemblyInfo.cs
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.csproj.CoreCompileInputs.cache
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.csproj.CopyComplete
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.dll
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\refint\SchoolManagementService.dll
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\SchoolManagementService.pdb
+C:\DemoShoppingCart\School\SchoolManagementService\obj\Debug\net6.0\ref\SchoolManagementService.dll

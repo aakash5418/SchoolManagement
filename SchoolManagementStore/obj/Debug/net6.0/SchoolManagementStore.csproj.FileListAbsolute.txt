@@ -1,0 +1,12 @@
+C:\DemoShoppingCart\School\SchoolManagementStore\bin\Debug\net6.0\SchoolManagementStore.deps.json
+C:\DemoShoppingCart\School\SchoolManagementStore\bin\Debug\net6.0\SchoolManagementStore.dll
+C:\DemoShoppingCart\School\SchoolManagementStore\bin\Debug\net6.0\SchoolManagementStore.pdb
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\SchoolManagementStore.csproj.AssemblyReference.cache
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\SchoolManagementStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\SchoolManagementStore.AssemblyInfoInputs.cache
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\SchoolManagementStore.AssemblyInfo.cs
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\SchoolManagementStore.csproj.CoreCompileInputs.cache
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\SchoolManagementStore.dll
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\refint\SchoolManagementStore.dll
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\SchoolManagementStore.pdb
+C:\DemoShoppingCart\School\SchoolManagementStore\obj\Debug\net6.0\ref\SchoolManagementStore.dll
