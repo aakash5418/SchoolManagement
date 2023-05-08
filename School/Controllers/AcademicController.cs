@@ -40,7 +40,8 @@ namespace School.Controllers
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                                return Ok(new { msg = "AcademicId  Not Found" });
+
             }
         }
 
